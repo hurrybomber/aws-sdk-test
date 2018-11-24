@@ -4,9 +4,8 @@
   "description": "Amazon S3 file upload and cache invalidation",
   "main": "awsTest.js",
   "author": {
-    "name": "Aida Drogan #BlondieCode",
-    "email": "aida.drogan.box@gmail.com",
-    "url": "https://www.youtube.com/channel/UCSsg9NLCse2XQCIRgfmJu3Q"
+    "name": "ILYA",
+    "email": "hurrybomber@gmail.com",
   },
   "license": "ISC",
   "dependencies": {
